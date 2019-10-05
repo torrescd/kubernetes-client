@@ -209,7 +209,6 @@
     </dependency>
     <dependency>
       <groupId>org.bouncycastle</groupId>
-      <optional>true</optional>
       <artifactId>bcpkix-jdk15on</artifactId>
       <version>${bouncycastle.version}</version>
     </dependency>
